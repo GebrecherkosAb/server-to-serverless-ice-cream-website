@@ -16,8 +16,7 @@ Upload files to Amazon S3 to host a static website.
 Migrate the dynamic website hosted on EC2 from using a MySQL database to using Amazon DynamoDB.
 Update the DynamoDB table with a new ice cream flavor.
 Refresh the website to reveal your new ice cream flavor.
-DURATION
-This lab requires approximately 45 minutes to complete.
+
 
 
 
